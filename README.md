@@ -1,4 +1,4 @@
-# E-land Clickstream
+# E-commerce Clickstream
 
 #### 1. Data Collection and Filtering ~ 12/31
 - 1.1) Data Cleaning & Merging.ipynd
