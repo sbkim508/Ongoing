@@ -1,10 +1,10 @@
 # E-land Clickstream
 
 #### 1. Data Collection and Filtering ~ 12/31
-- 1.1) Exploratory data and Cleaning.ipynd(탐색, NA, Outlier)
--> (1)PageStatus Feature 추출, (2)불필요한 PageStatus 제거, (3) Product_id 추출, (4) tiemOnPage Outlier 처리필요
+- 1.1) Data Cleaning & Merging.ipynd
+-> Purchase conversion 병합 후 EDA 진행
 
-- 1.2) Data Filtering & Merging.ipynd(Concaterate)
+- 1.2) Exploratory Data Analysis.ipynd
 -> Output data
 
 #### 2. Data Preprocessing ~ 1/14
